@@ -32,7 +32,7 @@ More details can be found in the notebook , Preprocessing tasks were like removi
 ![Data Model](Images/Data%20Model.png)
 
 #### Data Fields' Description
-![Data Fields' Description](Images/Fields%Description.png)
+![Data Fields' Description](Images/Fields%20Description.png)
 
 
 ### Step 4
