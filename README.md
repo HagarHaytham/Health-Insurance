@@ -22,4 +22,26 @@ The project depends the Health Insurance Data released by [Centers for Medicare 
 
 The Public Use Files (PUFs) contain data of organizations, networks, plans, plans' variants and the rates for individuals and family from year 2014 to year 2023.
 
+### Step 2
+#### Data Exploring and Preprocessing
+More details can be found in the notebook , Preprocessing tasks were like removing redundant data , removing raws with corrupted Id field.
+
+
+### Step 3 
+#### Data Model
+![Data Model](Images/Data%20Model.png)
+
+#### Data Fields' Description
+![Data Fields' Description](Images/Fields%Description.png)
+
+
+### Step 4
+#### Data Analysis
+
+
+
+### Step 5 
+#### Performance Optimization
+
+
 
