@@ -37,8 +37,13 @@ More details can be found in the notebook , Preprocessing tasks were like removi
 
 ### Step 4
 #### Data Analysis
+The Top 5 Networks having the Biggest number of organization included in them.
 
+![5 Networks](Images/DA1.png)
 
+This Table shows the plans with the highest individual rate for each age for the year 2023. It shows that cigna Dental Plan has the highest individual rate for almost all of the ages.
+
+![Plans](Images/DA2.png)
 
 ### Step 5 
 #### Performance Optimization
