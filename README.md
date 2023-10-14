@@ -48,5 +48,9 @@ This Table shows the plans with the highest individual rate for each age for the
 ### Step 5 
 #### Performance Optimization
 
+- RDDs VS DataFrames
+  In this PySpark application we used DataFrames instead of using RDDs, This is an optimization because RDDs have no built-in optimization while DataFrames benefit from Spark's built-in optimizations, including the Catalyst optimizer and Tungsten execution engine. These optimizations enable DataFrames to offer better performance and resource efficiency compared to RDDs.
+- Cashing and Presisting DataFrames
+  The `cache()` method caches the DataFrame in memory, while the `persist()` method allows you to specify a storage level for the DataFrame. By default, the `persist()` method stores the DataFrame in memory, but you can also store it on disk or in a combination of memory and disk.
 
 
